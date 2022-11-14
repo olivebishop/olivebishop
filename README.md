@@ -15,7 +15,7 @@ Now I'm Full Stack developer, a freelancer at upwork and Ajira Kenya also a stud
 👯   I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
 🎓   2022 Goals: Create more content, Create Open Source projects
 🛠    Tech Stack 
-🌐   HTML5 CSS JavaScript Bootstrap Tailwind  PHP JAVA PYTHON SQL  GIT 
+🌐   HTML5 ,CSS ,JavaScript ,Bootstrap ,Tailwind  ,PHP ,JAVA ,PYTHON  
 
 🛢   MySQL 
 
