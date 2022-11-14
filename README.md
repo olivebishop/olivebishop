@@ -11,11 +11,11 @@ My journey as a programmer started way back in high school during school times o
 Now I'm Full Stack developer, a freelancer at upwork and Ajira Kenya also a student at INSTITUTE OF SOFTWARE TECHOLOGIES 
 
 💻   More About Me
-🎓   I’m currently learning PHP & REACT JS.
+🎓   I’m currently learning PHP, PYTHON, JAVA, REACT JS.
 👯   I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
 🎓   2022 Goals: Create more content, Create Open Source projects
-🛠  Tech Stack
-🌐   HTML5 CSS JavaScript Bootstrap PHP 
+🛠    Tech Stack 
+🌐   HTML5 CSS JavaScript Bootstrap Tailwind  PHP JAVA PYTHON SQL  GIT 
 
 🛢   MySQL 
 
