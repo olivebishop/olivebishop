@@ -1,5 +1,5 @@
 ### Hi there 👋, 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=OLIVE+BISHOP;IS+A;FullSTACK+SOFTWARE+DEVELOPER;WEB+DEVELOPER;INNOVATOR;FOLLOW+ME+AND+LETS+SHARE+IDEAS)](https://git.io/typing-svg);
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=OLIVE+BISHOP;IS+A;FullSTACK+SOFTWARE+DEVELOPER;TECH+ENTHUSIASTIC;INNOVATOR;FOLLOW+ME+AND+LETS+SHARE+IDEAS)](https://git.io/typing-svg);
 
 "In some ways, programming is like painting. You start with a blank canvas and certain basic raw materials. You use a combination of science, art, and craft to determine what to do with them." - Andrew Hunt
 
