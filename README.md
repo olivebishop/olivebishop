@@ -13,8 +13,8 @@ Now I'm Full Stack developer, a freelancer at upwork and Ajira Kenya also a stud
 💻   More About Me
 🎓   I’m currently learning PHP, JAVA, REACT JS.
 👯   I’m looking forward to collaborate on any Open Source project which I consider interesting or useful.
-🎓   2022 Goals: Create websites and some web applications.✅
-🎓   2023 Goals: Create more content, Create Open Source projects
+🎓   2022 Goals: Create websites and some web applications.✅<br>
+🎓   2023 Goals: Create more content, Create Open Source projects....
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
