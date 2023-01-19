@@ -7,6 +7,7 @@ Software Developer
 My passion in programming began way back in high school during computer hackathons and mostly during my final year project had this idea but I was not able to accomplish due to limited knowledge I had. By then I used to to know a bit of visual basic and Ms. Access so this pushed me to where iam. My main reason to study programming is to bring humanity in my community by developing software that will solve problems faced today.
 
 *   🌍  I'm based in Nairobi- Kenya
+*   🖥️  See my portfolio at [my portfolio](http://https://olivebishop.vercel.app/)
 *   ✉️  You can contact me at [olivehendrilgen1@gmail.com](mailto:olivehendrilgen1@gmail.com)
 *   🧠  I'm learning React & material UI
 *   🤝  I'm open to collaborating on React projects
