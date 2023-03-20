@@ -1,11 +1,6 @@
+
 <h1 align="center">Hi 👋, I'm olive bishop</h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=olivebishop&label=Profile%20views&color=0e75b6&style=flat" alt="olivebishop" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olivebishop" alt="olivebishop" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/olivebishop_dev" target="blank"><img src="https://img.shields.io/twitter/follow/olivebishop_dev?logo=twitter&style=for-the-badge" alt="olivebishop_dev" /></a> </p>
 
 - 🔭 I’m currently working on [school project](https://mfanyikazi--abroad.vercel.app/)
 
@@ -31,10 +26,3 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rhymerke"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rhymerke" /></a><a href="https://ko-fi.com/olive_dev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="olive_dev" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=olivebishop&show_icons=true&locale=en&layout=compact" alt="olivebishop" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olivebishop&show_icons=true&locale=en" alt="olivebishop" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olivebishop&" alt="olivebishop" /></p>
-
