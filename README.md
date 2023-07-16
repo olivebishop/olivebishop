@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm olive bishop</h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
 
-- 🔭 I’m currently working on [school project](https://mfanyikazi--abroad.vercel.app/)
+- 🔭 I’m currently working on [school project](https://school-project-liart-alpha.vercel.app/)
 
 - 🌱 I’m currently learning **react and node js**
 
