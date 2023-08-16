@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [school project](https://school-project-liart-alpha.vercel.app/)
 
-- 🌱 I’m currently learning **Vue js and Laravel**
+- 🌱 I’m currently learning **Vue js , Laravel & Kotlin**
 
 - 👯 I’m looking to collaborate on **react, express, mysql**
 
