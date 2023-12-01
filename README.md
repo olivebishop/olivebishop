@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm olive bishop</h1>
 <h3 align="center">A passionate software developer from Kenya</h3>
 
-- 🔭 I’m currently working on [school project](https://school-project-liart-alpha.vercel.app/)
+- 🔭 I’m currently working as Intern
 
-- 🌱 I’m currently learning **Vue js , Laravel & Kotlin**
+- 🌱 I’m currently developing using React*
 
-- 👯 I’m looking to collaborate on **react, express, mysql**
+- 👯 I’m looking to collaborate on **react, Nest, , Express,  MySQL**
 
 - 💬 Ask me about **react**
 
