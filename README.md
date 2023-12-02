@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Olive Bishop</h1>
 <h3 align="center">A passionate full stack software developer from Kenya</h3>
 
-<p align="left"> <a href="https://twitter.com/olivebishop_dev" target="blank"><img src="https://img.shields.io/twitter/follow/olivebishop_dev?logo=twitter&style=for-the-badge" alt="olivebishop_dev" /></a> </p>
-
 - 🔭 I’m currently working on [Aspect car rental](https://aspect-car-rental.vercel.app/)
 
 - 🌱 I’m currently learning **TYPESCRIPT, GO , PostgreSQL**
@@ -19,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/olivebishop/](https://www.linkedin.com/in/olivebishop/)
 
-- ⚡ Fun fact **React is Not A Framework**
+- ⚡ Fun fact : **React is Not A Framework**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
