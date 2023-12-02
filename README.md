@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as Intern
 
-- 🌱 I’m currently developing using React*
+- 🌱 I’m currently developing using React
 
 - 👯 I’m looking to collaborate on **react, Nest, , Express,  MySQL**
 
