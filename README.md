@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Olive Bishop</h1>
 <h3 align="center">A passionate full stack software developer from Kenya</h3>
 
-- 🔭 I’m currently working on [Aspect car rental](https://aspect-car-rental.vercel.app/)
+- 🔭 I’m currently working for [PAYD TECHNOLOGIES](https://mypayd.app/)
 
 - 🌱 I’m currently learning **TYPESCRIPT, GO , PostgreSQL**
 
