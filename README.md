@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently an intern at [PAYD TECHNOLOGIES](https://mypayd.app/)
 
-- 🌱 I’m currently learning **TYPESCRIPT, GO , PostgreSQL**
+- 🌱 I’m currently learning **TYPESCRIPT and FIGMA**
 
 - 👯 I’m looking to collaborate on [REACT , EXPRESS & MySQL](https://www.olivebishop.me/)
 
