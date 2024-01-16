@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.olivebishop.me/](https://www.olivebishop.me/)
 
-- 💬 Ask me about **React, Express , Vue**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **olivehendrilgen1@gmail.com**
 
