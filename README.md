@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [REACT , EXPRESS & MySQL](https://www.olivebishop.me/)
 
-- 🤝 I’m looking for help with **TYPESCRIPT , GO and FIGMA**
+- 🤝 I’m looking for help with **TYPESCRIPT and GOLANG**
 
 
 - 👨‍💻 All of my projects are available at [https://www.olivebishop.me/](https://www.olivebishop.me/)
