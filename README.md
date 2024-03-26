@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning ** GO and FIGMA**
 
-- 👯 I’m looking to collaborate on [REACT , EXPRESS & MySQL](https://www.olivebishop.me/)
+- 👯 I’m looking to collaborate on [REACT, EXPRESS , GO & MySQL](https://www.olivebishop.me/)
 
 - 🤝 I’m looking for help with **TYPESCRIPT and GOLANG**
 
