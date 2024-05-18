@@ -1,4 +1,4 @@
-<h2 align="left">Hi👋 My name is Olive Bishop ,<br/>
+<h2 align="left">Hi👋 My name is Olive Bishop <br/>
   
   I'm a Software Engineer from Kenya </h2>
 
