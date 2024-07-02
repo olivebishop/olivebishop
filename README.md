@@ -1,11 +1,10 @@
-<h2 align="left">Hi👋 My name is Olive Bishop,<br/>
+<h2 align="left">Hi👋 My name is Olive Bishop, <br/>
   
-  I'm a Software Engineer from Kenya </h2>
+  I'm a Software Engineer from Kenya  </h2>
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"/>
 ###
 ###
-
  <div align="left"
     <img width="12" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
