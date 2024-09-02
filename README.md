@@ -3,7 +3,6 @@
   I'm a Software Engineer from Kenya </h2>
   
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"/>
-
  <div align="left"
     <img width="12" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
