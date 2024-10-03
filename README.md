@@ -50,7 +50,6 @@
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-line-wordmark.svg"  height="30"/>    
   </div>
-
 ###
 <div align="left">
   <a href="https://www.instagram.com/rhymer_ke">
