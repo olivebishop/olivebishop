@@ -114,5 +114,4 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olivebishop&theme=radical" alt="olivebishop" />
 </p>
 
-### 🐍 Watch my contribution graph get eaten by the snake:
-![snake gif](https://github.com/olivebishop/olivebishop/blob/output/github-contribution-grid-snake.gif)
+
