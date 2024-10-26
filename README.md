@@ -30,7 +30,7 @@
 
 - 📫 How to reach me: **olivehendrilgen1@gmail.com**
 
-- ⚡ Fun fact: **I'm a chess enthusiast and run a chess organization!**
+- ⚡ Fun fact: **I'm a chess enthusiast and run the board to protect the Queen**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
