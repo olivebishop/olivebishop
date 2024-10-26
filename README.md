@@ -26,7 +26,7 @@
 
 - 🤝 I'm looking for help with **scaling distributed systems**
 
-- 💬 Ask me about ** TypeScript, Next js , React, Node.js, and Database Design**
+- 💬 Ask me about **TypeScript, Next js , React, Node.js, and Database Design**
 
 - 📫 How to reach me: **olivehendrilgen1@gmail.com**
 
