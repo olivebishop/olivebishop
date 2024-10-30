@@ -18,7 +18,7 @@
   <img align="right" alt="Coding" width="300" src="https://i.imgflip.com/65efzo.gif">
 </p>
 
-- 🔭 I'm currently working on **innovative web application**
+- 🔭 I'm currently working on **innovative web and mobile application**
 
 - 🌱 I'm currently learning **Rust**
 
