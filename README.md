@@ -110,8 +110,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=olivebishop&show_icons=true&locale=en&theme=radical" alt="olivebishop" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=olivebishop&theme=radical" alt="olivebishop" />
-</p>
 
 
