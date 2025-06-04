@@ -20,7 +20,7 @@
 
 - 👯 I'm looking to collaborate on **open-source projects**
 
-- 💬 Ask me about **TypeScript, Next js , React, Node.js, and Database Design**
+- 💬 Ask me about **TypeScript, Next.js, React, Node.js, and Database Design**
 
 - 📫 How to reach me: **olivehendrilgen1@gmail.com**
 
