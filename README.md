@@ -13,7 +13,6 @@
   </a>
 </p>
 
-
 - 🔭 I'm currently working on **innovative web and mobile application**
 
 - 🌱 I'm currently learning **Rust**
