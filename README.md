@@ -11,7 +11,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=olivebishop&theme=darkhub&no-frame=true&row=1&column=7" alt="olivebishop" />
   </a>
 </p>
-
 - 🔭 I'm currently working on **innovative web and mobile application**
 
 - 🌱 I'm currently learning **Rust**
