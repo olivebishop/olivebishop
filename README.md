@@ -20,6 +20,8 @@
 - 💬 Ask me about **TypeScript, Next.js, React, Node.js, and Database Design**
 
 - 📫 How to reach me: **olivehendrilgen1@gmail.com**
+  
+- 🌐 Portfolio: **https://olivebishop.vercel.app**
 
 - ⚡ Fun fact: **I'm a chess enthusiast and run the board to protect the Queen**
 <h3 align="left">Languages and Tools:</h3>
