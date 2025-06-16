@@ -35,20 +35,28 @@ const oliver = {
 
 ### 🎨 [Crow Studios](https://crowstudios.tech)
 Full-service web development agency offering:
+*Creating web experiences that soar above the rest*
+
+**Recent Projects:**
+- **[Apex Solutions](https://apex-sol.vercel.app)** - Smart living solutions platform with intelligent home automation features (WIP)
+- **[The Solo African](https://www.thesolofafrican.com/)** - Tours & travel platform connecting solo travelers across Africa
+
+**Services:**
 - Custom web applications
 - Business websites & portfolios  
 - Mobile-responsive solutions
 - UX/UI design services
 
 ### 🎟️ [Event Parlour](https://eventparlour.com) *(In Development)*
-Event discovery and ticketing platform for Kenya's growing events scene
+Event platform for everyone - connecting organizers, attendees, and vendors in one seamless experience
 - **Tech Stack:** Next.js, TypeScript, PostgreSQL, Golang
+- **Current Phase:** SEO optimization, analytics integration, image optimization, OG meta generation, sitemap configuration, email routing, and subdomain registration
 - **Features:** Event management, ticket sales, analytics dashboard
 
 ### 📡 Community Building
 Curating tech content and events across platforms:
-- **Instagram:** 4,000+ followers sharing tech updates
-- **WhatsApp:** 700+ subscribers receiving curated tech news
+- **Instagram:** 4,000+ followers sharing tech & festival events.
+- **WhatsApp:** 700+ subscribers receiving curated tech events & hackathons.
 
 ---
 
