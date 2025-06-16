@@ -1,4 +1,4 @@
-# Oliver Bishop - Frontend Engineer & Digital Curator
+# Olive Bishop - Frontend Engineer & Digital Curator
 
 <div align="center">
   
@@ -20,7 +20,7 @@ Frontend engineer specializing in **React/Next.js** applications with a focus on
 Currently running **Crow Studios** - providing web development services to businesses across Kenya, and developing **Event Parlour**, a ticketing platform for events.
 
 ```javascript
-const oliver = {
+const olive = {
   location: "Nairobi, Kenya",
   role: "Frontend Engineer",
   focus: ["React", "TypeScript", "User Experience"],
