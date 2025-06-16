@@ -21,7 +21,7 @@ Currently running **Crow Studios** - providing web development services to busin
 
 ```javascript
 const olive = {
-  location: "Nairobi, Kenya",
+  location: "Mombasa, Kenya",
   role: "Frontend Engineer",
   focus: ["React", "TypeScript", "User Experience"],
   currentProjects: ["Crow Studios", "Event Parlour"],
