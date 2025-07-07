@@ -13,7 +13,6 @@
 
 ---
 
-
 ## 👨‍💻 About Me
 
 Frontend engineer specializing in **React/Next.js** applications with a focus on user experience and performance. I combine technical expertise with a design-first mindset to build interfaces that users actually enjoy using.
