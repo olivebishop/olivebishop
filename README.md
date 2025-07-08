@@ -1,6 +1,7 @@
 # Olive Bishop - Frontend Engineer & Digital Curator
 
 <div align="center">
+
   
 **Software Engineer from Mombasa, Kenya**  
 *Crafting interfaces that bridge human needs with digital solutions*
